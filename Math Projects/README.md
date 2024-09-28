@@ -1,0 +1,1 @@
+Here I've put some writeups of my math research I completed in high school. The topics include number theory and analysis. The analysis project was done as part of a program where I was mentored by a Dartmouth professor. I was able to write an expository paper thst got published! The other two were more passion projects to gain experience in new topics I was learning.
